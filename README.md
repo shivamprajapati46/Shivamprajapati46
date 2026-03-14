@@ -36,11 +36,6 @@ A tech enthusiast **Full Stack Developer** passionate about building robust web 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### 📈 GitHub Stats
-
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivamprajapati844505&show_icons=true&theme=radical)
-
-
 ---
 
 Thanks for visiting my profile!  
